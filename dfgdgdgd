@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+     <title>Food</title>
+  </head>
+  <body>
+    <ul class="nav justify-content-end border">
+         <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+            <a class="nav-link" href="#"><i class="fa fa-facebook text-secondary p-1"></i></a>
+        </li>
+         <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+            <a class="nav-link" href="#"><i class="fa fa-pinterest-p text-secondary p-1" aria-hidden="true"></i></a>
+        </li>
+         <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+            <a class="nav-link" href="#"><i class="fa fa-twitter text-secondary p-1" aria-hidden="true"></i></a>
+        </li>
+         <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+            <a class="nav-link" href="#"><i class="fa fa-instagram text-secondary p-1" aria-hidden="true"></i></a>
+        </li>
+        <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+            <a class="nav-link" href="#"><i class="fa fa-search text-secondary p-1" aria-hidden="true"></i></a>
+        </li>
+        <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+          <a class="nav-link" href="#"> <i class="fa fa-shopping-cart text-secondary p-1" aria-hidden="true"></i></a>
+        </li>
+        <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+          <a class="nav-link text-secondary px-5" href="#">+1 234 567 8990</a>
+        </li>
+        <li class="nav-item border border-secondary-modified border-right-0 border-top-0 border-bottom-0 py-1">
+          <a class="nav-link px-5" href="#"></a>
+        </li>
+    </ul>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <a class="navbar-brand" href="#"><h1 class="font-weight-bold">BELISE. LITE</h1></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ml-auto p-4">
+                <li class="nav-item active">
+                  <a class="nav-link px-4" href="#">Our Menu<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link px-4" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link px-4" href="#">Shop</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link px-4" href="#">Journal</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link px-4" href="#">Contact</a>
+                </li>
+              </ul>
+            </div>
+        </nav>
+    </div>
+    <section class="bg-section">
+      <div class="container">
+          <h1 style="padding-top: 180px; font-size: 60px; font-weight: bold;" class="text-white">DELICIOUS STARTS <br>RIGHT HERE</h1>  
+          <button type="button" class="btn btn-white btn-lg mt-3">Reserve Your Table</button>
+      </div>  
+    </section>
+    <section class="bg-pink">
+      <div class="container">
+        <div class="col-md-6"></div>
+        <div class="col-md-6">
+          <div class="pull-md-right">
+            <h2>WELCOME TO BELISE<br> LITE, WE HOPE YOU SIT <br> WITH US AT OUR TABLE.</h2>
+            <p>We offer a new, innovative kind of eating experience that allows you truly savor cat bite. It's almost like we know exactly what you want before you even do.
+            Our ingredients are delicately sourced with both time and care by using the highest standards and best practices as possible.
+            READ OUR MISSION</p>
+         </div>
+      </div>
+    </section>    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+  </body>
+</html>
